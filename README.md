@@ -1,6 +1,6 @@
 # TextUtils
 
-TextUtils is a utility which can be used to manipulate your text.
+TextUtils is a react app utility which can be used to manipulate your text.
 
 ## Available Scripts
 
